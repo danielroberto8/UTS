@@ -7,9 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-/**
- * Created by MU-05 on 30/10/2017.
- */
+
 
 public class second_main {
     Button logout = null;

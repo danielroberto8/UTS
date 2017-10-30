@@ -26,6 +26,7 @@
         android:layout_marginBottom="5dip"
         />
 
+
     <EditText
         android:id="@+id/txtPass"
         android:layout_width="fill_parent"
